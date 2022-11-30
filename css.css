@@ -1,0 +1,10 @@
+body {
+	background-color: #000;
+  }
+
+  .autoFit {
+	height: 90%;
+	width:98%;
+	overflow: hidden;
+	position: relative;
+  }
